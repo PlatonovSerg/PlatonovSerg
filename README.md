@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PlatonovSerg
+- 👀 I’m interested in Music and Programming.
+- 🌱 I’m currently learning Python.
