@@ -3,7 +3,7 @@
 📞 +7 999 819 17 27  
 📧 platonov1727@yandex.ru  
 📍 Москва, Россия  
-🐙 GitHub: https://github.com/platonovserg | https://github.com/platonov1727
+🐙 GitHub: [GitHub](https://github.com/platonovserg) | [GitHub2]( https://github.com/platonov1727)
 
 ---
 ## 🧑‍💻 Обо мне
